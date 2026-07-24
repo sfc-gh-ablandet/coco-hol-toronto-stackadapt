@@ -1,0 +1,31 @@
+advertiser_id,name,industry,tier,region,account_manager,contract_start_date,monthly_commitment
+ADV-001,PeakFitness Inc,Retail,Silver,US West,Marcus Rivera,2024-05-22,10000
+ADV-002,HomeCraft Co,Finance,Silver,US East,Sarah Chen,2024-04-05,25000
+ADV-003,EduPath Online Co,Entertainment,Gold,US West,David Kim,2025-03-05,25000
+ADV-004,SkyMiles Airlines Co,Automotive,Bronze,US East,Marcus Rivera,2025-03-08,75000
+ADV-005,UrbanNest Realty Corp,Technology,Bronze,Canada,Sarah Chen,2024-04-04,100000
+ADV-006,HealthFirst Ltd,Travel,Silver,US East,David Kim,2025-04-15,10000
+ADV-007,VitaWell Health Group,Finance,Silver,APAC,Priya Patel,2024-07-15,10000
+ADV-008,PulseRetail Corp,Automotive,Bronze,US West,Sarah Chen,2025-01-24,50000
+ADV-009,SkyMiles Airlines Ltd,Healthcare,Silver,US West,David Kim,2024-09-30,10000
+ADV-010,CloudSync SaaS Corp,Real Estate,Silver,US West,James O'Brien,2025-01-23,50000
+ADV-011,VitaWell Health Co,Technology,Silver,US East,Marcus Rivera,2024-02-02,75000
+ADV-012,MediCare Plus Ltd,Finance,Gold,APAC,David Kim,2024-11-18,25000
+ADV-013,PeakFitness Group,CPG,Bronze,EMEA,Marcus Rivera,2024-09-28,15000
+ADV-014,EduPath Group,Real Estate,Gold,APAC,James O'Brien,2025-02-12,75000
+ADV-015,EduPath Online Corp,Real Estate,Silver,US East,Sarah Chen,2024-06-05,15000
+ADV-016,MetroLiving Group,Entertainment,Gold,EMEA,Aisha Mohammed,2025-04-24,50000
+ADV-017,PrimeSpaces Inc,Finance,Silver,APAC,Priya Patel,2024-12-14,10000
+ADV-018,StreamPlay Group,Healthcare,Silver,Canada,Aisha Mohammed,2024-07-01,10000
+ADV-019,EcoWheels Ltd,Real Estate,Silver,US West,Priya Patel,2024-06-14,5000
+ADV-020,CloudSync SaaS Ltd,Education,Gold,Canada,Priya Patel,2024-09-02,5000
+ADV-021,EduPath NA,Finance,Gold,EMEA,Sarah Chen,2024-05-08,15000
+ADV-022,HomeCraft Group,Real Estate,Gold,APAC,Aisha Mohammed,2025-03-09,25000
+ADV-023,VitaWell NA,Technology,Silver,EMEA,David Kim,2025-01-17,150000
+ADV-024,DigitalPulse Co,Education,Gold,US West,Sarah Chen,2024-12-12,5000
+ADV-025,GameVault Co,Technology,Silver,US East,Sarah Chen,2024-03-01,25000
+ADV-026,FinEdge Capital Inc,Travel,Gold,US West,Priya Patel,2025-05-12,25000
+ADV-027,PrimeSpaces Corp,Entertainment,Silver,US West,James O'Brien,2025-02-20,25000
+ADV-028,HealthFirst Inc,CPG,Silver,EMEA,James O'Brien,2024-02-25,10000
+ADV-029,PulseRetail Group,Travel,Bronze,US East,Marcus Rivera,2024-07-15,25000
+ADV-030,PrimeSpaces Group,Healthcare,Silver,Canada,James O'Brien,2024-09-12,10000

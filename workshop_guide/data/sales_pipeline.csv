@@ -1,0 +1,41 @@
+opportunity_id,advertiser_id,deal_name,stage,amount,close_date,probability
+OPP-001,ADV-005,Renewal - UrbanNest,qualification,500000,2026-09-01,25
+OPP-002,ADV-003,Renewal - EduPath,prospecting,100000,2026-09-30,10
+OPP-003,ADV-005,Upsell - UrbanNest,qualification,150000,2026-10-16,25
+OPP-004,ADV-006,New Channel - HealthFirst,closed_won,50000,2026-07-23,100
+OPP-005,ADV-004,Expansion - SkyMiles,proposal,300000,2026-07-22,50
+OPP-006,ADV-022,Renewal - HomeCraft,negotiation,150000,2026-07-20,75
+OPP-007,ADV-012,Strategic - MediCare,prospecting,25000,2026-10-23,10
+OPP-008,ADV-018,Strategic - StreamPlay,prospecting,25000,2026-10-16,10
+OPP-009,ADV-026,Strategic - FinEdge,proposal,50000,2026-08-19,50
+OPP-010,ADV-010,Renewal - CloudSync,qualification,25000,2026-07-07,25
+OPP-011,ADV-025,Upsell - GameVault,prospecting,100000,2026-08-17,10
+OPP-012,ADV-007,Expansion - VitaWell,prospecting,300000,2026-07-04,10
+OPP-013,ADV-011,Expansion - VitaWell,negotiation,50000,2026-07-29,75
+OPP-014,ADV-026,Upsell - FinEdge,closed_won,75000,2026-10-01,100
+OPP-015,ADV-002,New Channel - HomeCraft,qualification,50000,2026-10-13,25
+OPP-016,ADV-011,Upsell - VitaWell,proposal,100000,2026-09-18,50
+OPP-017,ADV-030,Upsell - PrimeSpaces,proposal,300000,2026-07-16,50
+OPP-018,ADV-007,Expansion - VitaWell,prospecting,200000,2026-07-23,10
+OPP-019,ADV-013,Upsell - PeakFitness,proposal,25000,2026-08-19,50
+OPP-020,ADV-015,Enterprise - EduPath,prospecting,150000,2026-09-22,10
+OPP-021,ADV-012,New Channel - MediCare,prospecting,100000,2026-08-22,10
+OPP-022,ADV-025,Enterprise - GameVault,proposal,50000,2026-09-30,50
+OPP-023,ADV-026,Expansion - FinEdge,closed_lost,75000,2026-08-02,0
+OPP-024,ADV-020,Strategic - CloudSync,qualification,300000,2026-09-25,25
+OPP-025,ADV-005,Strategic - UrbanNest,qualification,200000,2026-10-17,25
+OPP-026,ADV-016,Enterprise - MetroLiving,prospecting,25000,2026-09-16,10
+OPP-027,ADV-015,Enterprise - EduPath,qualification,100000,2026-09-03,25
+OPP-028,ADV-023,Enterprise - VitaWell,closed_lost,100000,2026-07-03,0
+OPP-029,ADV-025,Strategic - GameVault,closed_won,150000,2026-07-31,100
+OPP-030,ADV-014,Upsell - EduPath,negotiation,50000,2026-07-08,75
+OPP-031,ADV-012,Renewal - MediCare,qualification,100000,2026-07-20,25
+OPP-032,ADV-007,Strategic - VitaWell,proposal,100000,2026-10-27,50
+OPP-033,ADV-020,New Channel - CloudSync,closed_lost,500000,2026-10-03,0
+OPP-034,ADV-005,Renewal - UrbanNest,qualification,25000,2026-09-05,25
+OPP-035,ADV-021,Strategic - EduPath,negotiation,25000,2026-07-30,75
+OPP-036,ADV-011,Expansion - VitaWell,qualification,100000,2026-09-08,25
+OPP-037,ADV-030,Strategic - PrimeSpaces,closed_lost,100000,2026-10-11,0
+OPP-038,ADV-023,New Channel - VitaWell,negotiation,300000,2026-09-05,75
+OPP-039,ADV-006,Renewal - HealthFirst,qualification,25000,2026-07-09,25
+OPP-040,ADV-003,Upsell - EduPath,closed_lost,25000,2026-09-20,0

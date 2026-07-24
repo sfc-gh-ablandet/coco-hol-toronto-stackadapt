@@ -1,0 +1,121 @@
+campaign_id,advertiser_id,name,objective,channel,status,start_date,end_date,daily_budget
+CMP-0001,ADV-028,Q3 Retargeting 84,conversion,display,completed,2026-05-21,2026-06-16,200
+CMP-0002,ADV-006,Contextual Play 28,consideration,display,active,2026-04-15,2026-06-30,100
+CMP-0003,ADV-013,Video Engagement 55,conversion,ctv,active,2026-03-09,2026-05-20,500
+CMP-0004,ADV-007,Q3 Retargeting 96,consideration,display,active,2026-01-15,2026-04-13,1000
+CMP-0005,ADV-017,Q3 Retargeting 66,awareness,native,active,2026-05-16,2026-06-19,100
+CMP-0006,ADV-022,Back to School 73,awareness,display,paused,2026-03-02,2026-05-06,1000
+CMP-0007,ADV-022,Loyalty Campaign 34,awareness,video,active,2026-05-30,2026-08-24,1000
+CMP-0008,ADV-005,Loyalty Campaign 97,awareness,display,active,2026-03-18,2026-05-29,2000
+CMP-0009,ADV-004,Conversion Sprint 65,consideration,native,completed,2026-01-19,2026-04-11,100
+CMP-0010,ADV-029,Video Engagement 21,consideration,video,paused,2026-03-04,2026-05-04,5000
+CMP-0011,ADV-017,Video Engagement 85,awareness,native,active,2026-01-03,2026-03-28,100
+CMP-0012,ADV-024,CTV Reach Play 37,conversion,native,completed,2026-05-22,2026-06-24,200
+CMP-0013,ADV-022,Contextual Play 33,awareness,display,paused,2026-03-09,2026-05-26,500
+CMP-0014,ADV-002,Product Launch 82,consideration,native,completed,2026-01-01,2026-02-26,2000
+CMP-0015,ADV-023,Summer Brand Push 15,awareness,native,paused,2026-04-20,2026-07-14,500
+CMP-0016,ADV-019,Intent Surge 17,awareness,video,active,2026-05-22,2026-06-23,100
+CMP-0017,ADV-029,Native Content 86,awareness,video,completed,2026-04-02,2026-05-12,1000
+CMP-0018,ADV-020,Awareness Blast 23,consideration,display,active,2026-02-09,2026-03-25,500
+CMP-0019,ADV-026,CTV Reach Play 21,conversion,display,active,2026-04-16,2026-05-31,100
+CMP-0020,ADV-028,Conversion Sprint 59,consideration,video,completed,2026-05-01,2026-06-12,200
+CMP-0021,ADV-008,Geo-Targeting Local 43,consideration,display,completed,2026-01-07,2026-02-14,500
+CMP-0022,ADV-012,Loyalty Campaign 04,awareness,video,active,2026-05-11,2026-07-15,500
+CMP-0023,ADV-002,Intent Surge 45,conversion,video,active,2026-01-28,2026-04-28,2000
+CMP-0024,ADV-004,Conversion Sprint 33,awareness,ctv,active,2026-04-09,2026-07-05,2000
+CMP-0025,ADV-022,Intent Surge 09,conversion,video,paused,2026-02-20,2026-04-21,5000
+CMP-0026,ADV-028,Video Engagement 86,consideration,video,active,2026-02-01,2026-03-25,500
+CMP-0027,ADV-018,Intent Surge 86,consideration,native,paused,2026-02-02,2026-03-12,500
+CMP-0028,ADV-013,Video Engagement 37,awareness,ctv,completed,2026-05-21,2026-06-04,2000
+CMP-0029,ADV-021,Cross-device Sync 57,conversion,native,paused,2026-03-24,2026-06-05,5000
+CMP-0030,ADV-006,Loyalty Campaign 12,awareness,video,active,2026-01-22,2026-03-13,200
+CMP-0031,ADV-005,Native Content 61,conversion,display,active,2026-01-07,2026-01-26,5000
+CMP-0032,ADV-019,Contextual Play 52,awareness,native,paused,2026-02-19,2026-04-23,100
+CMP-0033,ADV-029,Native Content 23,conversion,ctv,active,2026-01-28,2026-04-06,200
+CMP-0034,ADV-030,Product Launch 60,conversion,video,completed,2026-02-01,2026-04-14,1000
+CMP-0035,ADV-020,Cross-device Sync 21,conversion,ctv,active,2026-05-10,2026-07-17,200
+CMP-0036,ADV-027,Contextual Play 81,awareness,video,active,2026-03-12,2026-05-31,5000
+CMP-0037,ADV-010,Loyalty Campaign 41,conversion,display,active,2026-03-02,2026-04-19,200
+CMP-0038,ADV-013,Holiday Prospecting 54,consideration,video,paused,2026-02-09,2026-03-22,1000
+CMP-0039,ADV-002,Geo-Targeting Local 99,conversion,display,completed,2026-02-22,2026-04-30,2000
+CMP-0040,ADV-013,Win-back Series 39,consideration,ctv,paused,2026-05-03,2026-05-17,5000
+CMP-0041,ADV-018,Native Content 35,consideration,ctv,active,2026-02-26,2026-05-13,500
+CMP-0042,ADV-022,Cross-device Sync 17,conversion,display,completed,2026-04-14,2026-05-19,2000
+CMP-0043,ADV-019,Intent Surge 18,consideration,native,active,2026-01-07,2026-01-31,1000
+CMP-0044,ADV-011,Loyalty Campaign 44,consideration,video,completed,2026-02-24,2026-05-07,1000
+CMP-0045,ADV-009,Summer Brand Push 96,conversion,display,completed,2026-01-21,2026-04-05,500
+CMP-0046,ADV-008,Summer Brand Push 32,awareness,display,paused,2026-01-18,2026-02-06,200
+CMP-0047,ADV-005,Conversion Sprint 60,conversion,video,completed,2026-05-02,2026-05-30,200
+CMP-0048,ADV-020,Video Engagement 14,conversion,display,completed,2026-01-30,2026-03-05,2000
+CMP-0049,ADV-022,Conversion Sprint 10,conversion,native,active,2026-04-07,2026-06-10,500
+CMP-0050,ADV-028,Q3 Retargeting 45,conversion,ctv,paused,2026-01-31,2026-04-27,100
+CMP-0051,ADV-017,Intent Surge 63,awareness,ctv,completed,2026-03-29,2026-04-13,5000
+CMP-0052,ADV-029,Intent Surge 23,conversion,video,paused,2026-04-28,2026-05-31,2000
+CMP-0053,ADV-025,Intent Surge 94,conversion,video,active,2026-05-04,2026-07-16,200
+CMP-0054,ADV-027,Cross-device Sync 32,consideration,ctv,active,2026-01-23,2026-03-13,1000
+CMP-0055,ADV-028,Contextual Play 28,consideration,video,active,2026-03-25,2026-05-01,2000
+CMP-0056,ADV-023,Summer Brand Push 67,awareness,display,active,2026-03-12,2026-06-05,1000
+CMP-0057,ADV-016,Contextual Play 83,conversion,ctv,active,2026-05-23,2026-07-06,100
+CMP-0058,ADV-003,Geo-Targeting Local 89,awareness,video,paused,2026-03-17,2026-04-28,500
+CMP-0059,ADV-016,Win-back Series 55,conversion,video,active,2026-05-22,2026-08-11,1000
+CMP-0060,ADV-009,Native Content 16,conversion,native,active,2026-03-20,2026-05-05,5000
+CMP-0061,ADV-018,Conversion Sprint 95,consideration,video,completed,2026-02-17,2026-03-27,2000
+CMP-0062,ADV-020,Conversion Sprint 38,awareness,video,active,2026-03-14,2026-04-09,100
+CMP-0063,ADV-023,CTV Reach Play 06,awareness,video,paused,2026-05-17,2026-06-16,200
+CMP-0064,ADV-021,Summer Brand Push 74,consideration,ctv,active,2026-05-06,2026-06-02,500
+CMP-0065,ADV-006,Contextual Play 15,awareness,ctv,active,2026-01-14,2026-03-01,2000
+CMP-0066,ADV-021,Product Launch 73,consideration,display,completed,2026-01-14,2026-02-16,100
+CMP-0067,ADV-018,Native Content 67,consideration,ctv,completed,2026-04-17,2026-07-16,500
+CMP-0068,ADV-028,Video Engagement 73,conversion,display,paused,2026-05-31,2026-08-07,5000
+CMP-0069,ADV-004,CTV Reach Play 85,awareness,native,active,2026-02-23,2026-04-05,2000
+CMP-0070,ADV-003,Intent Surge 58,conversion,ctv,active,2026-02-10,2026-02-24,200
+CMP-0071,ADV-010,Holiday Prospecting 88,awareness,video,completed,2026-03-14,2026-05-25,5000
+CMP-0072,ADV-019,Back to School 70,awareness,native,completed,2026-02-20,2026-04-29,200
+CMP-0073,ADV-003,Video Engagement 77,conversion,video,active,2026-01-16,2026-02-20,1000
+CMP-0074,ADV-023,CTV Reach Play 65,conversion,ctv,active,2026-03-19,2026-05-23,2000
+CMP-0075,ADV-002,CTV Reach Play 04,awareness,native,completed,2026-04-21,2026-06-15,2000
+CMP-0076,ADV-019,Q3 Retargeting 98,awareness,ctv,paused,2026-01-06,2026-02-23,1000
+CMP-0077,ADV-030,Intent Surge 82,consideration,display,active,2026-03-13,2026-04-19,1000
+CMP-0078,ADV-011,Awareness Blast 43,consideration,ctv,active,2026-03-24,2026-04-20,1000
+CMP-0079,ADV-027,Cross-device Sync 12,consideration,video,active,2026-05-21,2026-06-08,1000
+CMP-0080,ADV-028,Cross-device Sync 53,awareness,native,paused,2026-05-12,2026-05-26,2000
+CMP-0081,ADV-025,Q3 Retargeting 27,consideration,native,completed,2026-05-08,2026-07-17,1000
+CMP-0082,ADV-029,Summer Brand Push 81,conversion,native,completed,2026-05-05,2026-06-03,500
+CMP-0083,ADV-018,Intent Surge 12,awareness,display,active,2026-01-04,2026-03-29,100
+CMP-0084,ADV-021,Video Engagement 66,conversion,video,active,2026-02-09,2026-04-27,1000
+CMP-0085,ADV-016,Product Launch 50,awareness,native,completed,2026-03-04,2026-05-15,500
+CMP-0086,ADV-025,CTV Reach Play 01,consideration,video,completed,2026-04-17,2026-06-13,2000
+CMP-0087,ADV-022,Cross-device Sync 69,consideration,video,active,2026-05-06,2026-06-08,2000
+CMP-0088,ADV-013,Conversion Sprint 90,awareness,ctv,active,2026-04-27,2026-06-21,1000
+CMP-0089,ADV-002,Geo-Targeting Local 50,conversion,native,active,2026-03-23,2026-06-05,100
+CMP-0090,ADV-005,Loyalty Campaign 13,consideration,display,paused,2026-05-09,2026-08-06,1000
+CMP-0091,ADV-001,Product Launch 10,consideration,video,active,2026-02-06,2026-04-13,5000
+CMP-0092,ADV-013,Geo-Targeting Local 41,conversion,ctv,completed,2026-01-21,2026-03-18,100
+CMP-0093,ADV-020,Video Engagement 30,conversion,display,active,2026-01-18,2026-03-03,100
+CMP-0094,ADV-025,Awareness Blast 89,consideration,display,active,2026-01-26,2026-04-06,100
+CMP-0095,ADV-010,Intent Surge 19,awareness,ctv,paused,2026-04-02,2026-06-02,200
+CMP-0096,ADV-006,Geo-Targeting Local 80,conversion,native,active,2026-02-14,2026-03-10,2000
+CMP-0097,ADV-005,CTV Reach Play 59,consideration,display,completed,2026-03-01,2026-05-13,1000
+CMP-0098,ADV-029,Awareness Blast 10,consideration,video,completed,2026-03-15,2026-06-06,500
+CMP-0099,ADV-021,Cross-device Sync 39,awareness,ctv,completed,2026-04-19,2026-06-04,100
+CMP-0100,ADV-008,Win-back Series 74,consideration,video,active,2026-04-08,2026-07-04,5000
+CMP-0101,ADV-013,Q3 Retargeting 78,conversion,ctv,completed,2026-03-12,2026-03-27,500
+CMP-0102,ADV-025,Native Content 82,awareness,video,paused,2026-02-28,2026-04-28,5000
+CMP-0103,ADV-025,Q3 Retargeting 40,consideration,display,paused,2026-02-05,2026-03-03,5000
+CMP-0104,ADV-005,Loyalty Campaign 96,consideration,native,active,2026-01-24,2026-03-16,2000
+CMP-0105,ADV-029,CTV Reach Play 22,consideration,ctv,completed,2026-04-04,2026-06-24,500
+CMP-0106,ADV-024,Cross-device Sync 10,awareness,native,completed,2026-03-28,2026-04-25,5000
+CMP-0107,ADV-022,Win-back Series 12,consideration,display,active,2026-04-12,2026-07-06,100
+CMP-0108,ADV-015,Geo-Targeting Local 82,consideration,display,paused,2026-04-05,2026-05-22,1000
+CMP-0109,ADV-001,Native Content 83,awareness,ctv,completed,2026-05-24,2026-07-18,500
+CMP-0110,ADV-021,Product Launch 06,awareness,video,completed,2026-04-15,2026-05-13,100
+CMP-0111,ADV-004,Product Launch 50,consideration,video,paused,2026-03-02,2026-05-23,5000
+CMP-0112,ADV-023,Product Launch 54,conversion,display,completed,2026-05-19,2026-07-25,2000
+CMP-0113,ADV-014,Win-back Series 28,consideration,ctv,completed,2026-03-13,2026-03-31,500
+CMP-0114,ADV-004,Win-back Series 08,consideration,video,active,2026-04-05,2026-06-27,100
+CMP-0115,ADV-028,Conversion Sprint 83,conversion,display,active,2026-04-27,2026-05-22,500
+CMP-0116,ADV-008,Conversion Sprint 09,conversion,native,paused,2026-02-02,2026-04-29,200
+CMP-0117,ADV-011,Summer Brand Push 36,awareness,native,paused,2026-02-07,2026-05-08,200
+CMP-0118,ADV-004,Summer Brand Push 46,awareness,video,active,2026-01-07,2026-02-06,500
+CMP-0119,ADV-002,Back to School 96,awareness,ctv,active,2026-02-02,2026-04-10,500
+CMP-0120,ADV-017,Native Content 79,awareness,video,active,2026-01-28,2026-04-09,100
